@@ -22,6 +22,5 @@ Apprenez comment créer un blog de recettes en passant par l'utilisation d'une A
 
 ## Obtenir de l'aide
 
-### Rejoindre la communauté [Discord]()
-
+### Rejoindre la communauté [Discord](https://discord.gg/2eXfdk8CyJ)
 
